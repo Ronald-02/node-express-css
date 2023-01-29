@@ -1,6 +1,6 @@
 # Projeto Individual - Módulo 5 - Ordenar Propriedades CSS
 
- 👨‍💻 Objetivo era realizar uma aplicação, no terminal, utilizando propriedades de CSS e, ao escrever "sair", retorne as propriedades dadas em ordem alfabética. 👨‍💻 
+ 👨‍💻 O Objetivo era realizar uma aplicação, no terminal, utilizando propriedades de CSS e, ao escrever "sair", retorne as propriedades dadas em ordem alfabética. 👨‍💻 
 
 ⚠️  A finalidade do código no momento é apenas mostrar um exemplo de listagem aceitável a ser feita no terminal, por isso, ainda não existe restrições para propriedades CSS. ⚠️ 
 
