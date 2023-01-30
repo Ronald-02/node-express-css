@@ -27,6 +27,6 @@ Em seguinda, é só digitar qualquer propriedades CSS que queira colocar e assim
 ![ordem](https://user-images.githubusercontent.com/112557309/215297711-92e66aad-9dcd-4f6d-80dc-fcb9f5a9aa27.png)
 
 ## Tecnologia Utilizada:
-
+   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
    ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
    ![Express.JS](https://img.shields.io/badge/-Express.JS-0D1117?style=for-the-badge&logo=express.js&labelColor=0D1117&textColor=0D1117)&nbsp;
